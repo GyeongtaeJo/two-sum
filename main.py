@@ -8,7 +8,6 @@ def twoSum(nums: List[int], target:int)->List[int]:
                 output.append(i)
                 output.append(j)
                 return output
-
-print(twoSum([3,2,4] , 6))
+    return output
 
     
